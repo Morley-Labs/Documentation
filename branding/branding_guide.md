@@ -9,7 +9,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
 ### **Morley Brand Assets**
 
 #### **1️⃣ Full Logo for Multi-Use**
-![Morley Full Logo (Multi-Use)](./branding/morley_logo_multi-use.png)
+![Morley Full Logo (Multi-Use)](./morley_logo_multi-use.png)
 
 - **File Name:** `morley_logo_multi-use.png`
 - **Usage:**  
@@ -17,7 +17,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Recommended for websites, headers, and presentations where theme switching is common.
 
 #### **2️⃣ Logo for Light Backgrounds**
-![Morley Logo (Light Background)](./branding/morley_logo_for-light.png)
+![Morley Logo (Light Background)](./morley_logo_for-light.png)
 
 - **File Name:** `morley_logo_for-light.png`
 - **Usage:**  
@@ -25,7 +25,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Suitable for documents, slides, and white-themed websites.
 
 #### **3️⃣ Logo for Dark Backgrounds**
-![Morley Logo (Dark Background)](./branding/morley_logo_for-dark.png)
+![Morley Logo (Dark Background)](./morley_logo_for-dark.png)
 
 - **File Name:** `morley_logo_for-dark.png`
 - **Usage:**  
@@ -33,7 +33,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Suitable for dark-mode interfaces, branding, or black-themed websites.
 
 #### **4️⃣ Icon for Multi-Use**
-![Morley Icon (Multi-Use)](./branding/morley_icon_multi-use.png)
+![Morley Icon (Multi-Use)](./morley_icon_multi-use.png)
 
 - **File Name:** `morley_icon_multi-use.png`
 - **Usage:**  
@@ -41,7 +41,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Ideal for social media, app icons, or GitHub profiles.
 
 #### **5️⃣ Icon for Light Backgrounds**
-![Morley Icon (Light Background)](./branding/morley_icon_for-light.png)
+![Morley Icon (Light Background)](./morley_icon_for-light.png)
 
 - **File Name:** `morley_icon_for-light.png`
 - **Usage:**  
@@ -49,7 +49,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Suitable for white-themed interfaces or minimalist designs.
 
 #### **6️⃣ Icon for Dark Backgrounds**
-![Morley Icon (Dark Background)](./branding/morley_icon_for-dark.png)
+![Morley Icon (Dark Background)](./morley_icon_for-dark.png)
 
 - **File Name:** `morley_icon_for-dark.png`
 - **Usage:**  
@@ -61,7 +61,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
 ### **ArkWriter Brand Assets**
 
 #### **1️⃣ Logo for Light Backgrounds**
-![ArkWriter Logo (Light Background)](./branding/arkwriter_logo_for-light.png)
+![ArkWriter Logo (Light Background)](./arkwriter_logo_for-light.png)
 
 - **File Name:** `arkwriter_logo_for-light.png`
 - **Usage:**  
@@ -69,12 +69,30 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Suitable for white-themed websites, presentations, and documents.
 
 #### **2️⃣ Logo for Dark Backgrounds**
-![ArkWriter Logo (Dark Background)](./branding/arkwriter_logo_for-dark.png)
+![ArkWriter Logo (Dark Background)](./arkwriter_logo_for-dark.png)
 
 - **File Name:** `arkwriter_logo_for-dark.png`
 - **Usage:**  
   - Use on dark backgrounds for optimal contrast.
   - Ideal for dark-mode UIs and black-themed websites.
+
+---
+
+## **🔸 Conceptual Artworks**
+
+### **Morley Conceptual Logo**  
+![Morley Conceptual Logo (Orange Theme)](./branding/morley.png)
+
+- **File Name:** `morley.png`
+- **Description:**  
+  This conceptual artwork represents the Morley brand's concept and direction. It is meant to symbolize innovation, progress and the potential of the Morley project. 
+- **Usage:**  
+  - Marketing and media materials such as banners, ads, or website headers.  
+  - Presentation covers or reports.  
+  - Social media visuals to enhance brand presence.  
+- **Notes:**  
+  - This is **not a functional logo** and should not replace the standard Morley logo in official or UI contexts.  
+  - Maintain the original aspect ratio when resizing to ensure the design integrity remains intact.
 
 ---
 
@@ -119,18 +137,19 @@ The **ArkWriter logo** uses the **Ubuntu Bold** font.
 ## **🔸 Download Locations**
 All assets are available in the `branding/` folder:  
 - **Morley Assets**:
-  - Multi-Use Logo: [`morley_logo_multi-use.png`](./branding/morley_logo_multi-use.png)
-  - Light Logo: [`morley_logo_for-light.png`](./branding/morley_logo_for-light.png)
-  - Dark Logo: [`morley_logo_for-dark.png`](./branding/morley_logo_for-dark.png)
-  - Multi-Use Icon: [`morley_icon_multi-use.png`](./branding/morley_icon_multi-use.png)
-  - Light Icon: [`morley_icon_for-light.png`](./branding/morley_icon_for-light.png)
-  - Dark Icon: [`morley_icon_for-dark.png`](./branding/morley_icon_for-dark.png)
+  - Conceptual Logo: [`morley.png`](./branding/morley.png)
+  - Multi-Use Logo: [`morley_logo_multi-use.png`](./morley_logo_multi-use.png)
+  - Light Logo: [`morley_logo_for-light.png`](./morley_logo_for-light.png)
+  - Dark Logo: [`morley_logo_for-dark.png`](./morley_logo_for-dark.png)
+  - Multi-Use Icon: [`morley_icon_multi-use.png`](./morley_icon_multi-use.png)
+  - Light Icon: [`morley_icon_for-light.png`](./morley_icon_for-light.png)
+  - Dark Icon: [`morley_icon_for-dark.png`](./morley_icon_for-dark.png)
 - **ArkWriter Assets**:
-  - Light Logo: [`arkwriter_logo_for-light.png`](./branding/arkwriter_logo_for-light.png)
-  - Dark Logo: [`arkwriter_logo_for-dark.png`](./branding/arkwriter_logo_for-dark.png)
+  - Light Logo: [`arkwriter_logo_for-light.png`](./arkwriter_logo_for-light.png)
+  - Dark Logo: [`arkwriter_logo_for-dark.png`](./arkwriter_logo_for-dark.png)
 
 ---
 
 ## **🔸 Contact for Branding Requests**
-For specific use cases, questions, or custom asset requests, contact the branding team:  
+For specific use cases, questions, or custom asset requests, contact the Morley team:  
 📩 **cyphrpool@gmail.com**
