@@ -60,7 +60,15 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
 
 ### **ArkWriter Brand Assets**
 
-#### **1️⃣ Logo for Light Backgrounds**
+#### **1️⃣ Logo for Multi-Use**
+![ArkWriter Logo (Multi-Use)](./arkwriter_logo_multi-use.png)
+
+- **File Name:** `arkwriter_logo_multi-use.png`
+- **Usage:**  
+  - Use for both light and dark backgrounds.
+  - Recommended for websites, headers, and presentations where theme switching is common.
+
+#### **2️⃣ Logo for Light Backgrounds**
 ![ArkWriter Logo (Light Background)](./arkwriter_logo_for-light.png)
 
 - **File Name:** `arkwriter_logo_for-light.png`
@@ -68,7 +76,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
   - Use on light backgrounds for optimal contrast.
   - Suitable for white-themed websites, presentations, and documents.
 
-#### **2️⃣ Logo for Dark Backgrounds**
+#### **3️⃣ Logo for Dark Backgrounds**
 ![ArkWriter Logo (Dark Background)](./arkwriter_logo_for-dark.png)
 
 - **File Name:** `arkwriter_logo_for-dark.png`
@@ -145,6 +153,7 @@ All assets are available in the `branding/` folder:
   - Light Icon: [`morley_icon_for-light.png`](./morley_icon_for-light.png)
   - Dark Icon: [`morley_icon_for-dark.png`](./morley_icon_for-dark.png)
 - **ArkWriter Assets**:
+  - Multi-Use Logo: [`arkwriter_logo-multi-use.png`](./arkwriter_logo_multi-use.png)
   - Light Logo: [`arkwriter_logo_for-light.png`](./arkwriter_logo_for-light.png)
   - Dark Logo: [`arkwriter_logo_for-dark.png`](./arkwriter_logo_for-dark.png)
 
