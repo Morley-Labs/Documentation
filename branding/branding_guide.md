@@ -81,7 +81,7 @@ This document provides guidelines for using the **Morley** and **ArkWriter** bra
 ## **🔸 Conceptual Artworks**
 
 ### **Morley Conceptual Logo**  
-![Morley Conceptual Logo (Orange Theme)](./branding/morley.png)
+![Morley Conceptual Logo (Orange Theme)](./morley.png)
 
 - **File Name:** `morley.png`
 - **Description:**  
