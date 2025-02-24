@@ -1,4 +1,4 @@
-# **![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/morley_backdrop2.png)Morley: Ladder Logic Smart Contracts**
+# **![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/morley.png)Morley: Ladder Logic Smart Contracts**
 
 ## **Abstract**
 
@@ -26,7 +26,7 @@ Morley was created to unify these paradigms, allowing engineers and developers t
 
 A key challenge in bringing automation logic on-chain is ensuring deterministic execution, where outcomes remain consistent across all validating nodes in a decentralized network. Morley addresses this by leveraging Cardano’s Extended UTXO (eUTxO) model, ensuring that Ladder Logic smart contracts execute reliably, without state conflicts or unexpected behavior.[2](#2)
 
-![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/trad_vs_morley.png)
+![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/trad_vs_morley.png)
 
 * **State Consistency** – Unlike traditional PLCs that rely on local execution and state retention, Morley ensures that all logic transitions are reproducible on-chain, eliminating the risk of conflicting state changes.  
 * **Finality Guarantees** – Transactions are finalized deterministically, meaning once a contract executes, its state cannot be altered retrospectively. This eliminates common race conditions and indeterminate states found in off-chain automation.[3](#3) 
@@ -41,7 +41,7 @@ As Morley expands its capabilities, Cardano’s Layer 2 (L2) and sidechain solut
 * **Midgard for Computational Efficiency** – Off-chain computing frameworks like Midgard can allow Morley to process complex industrial workflows off-chain and submit only final state changes to the blockchain, significantly reducing transaction load and execution costs.[5](#5) 
 * **Sidechains for Enterprise & Cross-Chain Integration** – Custom Cardano sidechains and partner chains (such as Milkomeda or Midnight) can extend Morley’s functionality by providing private execution environments, interoperability with non-Cardano systems, and regulatory compliance for enterprise adoption.[6](#6) [7](#7)
 
- ![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/morley_hydra.png)
+ ![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/morley_hydra.png)
 
 ### **Extending Industrial Automation to Blockchain**
 
@@ -134,7 +134,7 @@ validate TX_Send = Counter1 == 100 || Counter2 == 0
 ```
 
 ## **Overview of the Compilation Pipeline**
-![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/compiler_pipeline.png)
+![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/compiler_pipeline.png)
 The **PlutusLadder Compiler (PLC)** transforms **LadderCore IR** into **Plutus Core** smart contracts, enabling deterministic execution on Cardano's blockchain. The compilation pipeline consists of the following key stages:
 
 **1\. Parsing & IR Generation**
@@ -332,7 +332,7 @@ The PlutusLadder Simulator in ArkWriter provides a sandbox testing environment f
 
 ## **ArkWriter:** Graphical Editor for Blockchain Based Ladder Logic 
 
-![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/arkwriter.png)
+![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/arkwriter_logo_multi-use.png)
 
 ArkWriter serves as the graphical user interface (GUI) for Morley, enabling engineers and developers to design, simulate, and deploy Ladder Logic smart contracts on Cardano’s blockchain. It provides a drag and drop interface for creating Ladder Logic diagrams, which are then converted into Plutus smart contracts.
 
@@ -483,7 +483,7 @@ Morley extends the applicability of Ladder Logic into blockchain integrated solu
 
 Morley’s integration of Ladder Logic with blockchain extends beyond traditional PLC based industrial automation. By enabling machine-to-machine (M2M) and remote system-to-remote system interactions on a trustless, decentralized infrastructure, Morley opens new possibilities across manufacturing, logistics, energy, finance, and space exploration. This section explores advanced applications where Morley powered automation drives efficiency, transparency, and autonomy.
 
-![alt text](https://raw.githubusercontent.com/Liberty-Chris/Morley/refs/heads/main/images/m2m_service.png)
+![alt text](https://raw.githubusercontent.com/Morley-Labs/Documentation/refs/heads/main/docs/branding/m2m_service.png)
 
 ### **Decentralized Smart Manufacturing & Digital Twins**
 
@@ -953,7 +953,7 @@ Morley represents a paradigm shift in smart contract development, making blockch
 
 With ongoing enhancements, expanding industry adoption, and growing community support, Morley is poised to become the go-to solution for blockchain integrated industrial logic.
 
-For more information, visit [**morleylang.org**](https://morleylang.org) and join the conversation on GitHub: [Morley Repository](https://github.com/Liberty-Chris/Morley).
+For more information, visit [**morleylang.org**](https://morleylang.org) and join the conversation on GitHub: [Morley Repository](https://github.com/Morley-Labs).
 
 ## References
 
