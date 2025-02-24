@@ -732,7 +732,7 @@ The Ladder Logic program is translated into LadderCore IR, which structures the 
 * The logic ensures that financial actions are triggered based on real time machine performance.  
 * If a loan is taken, repayment is only activated once machine efficiency recovers.
 
-### **Step 3: Plutus Core Smart Contract Code**
+### **Step 3: Morley-Plutus Smart Contract Code**
 
 The PlutusLadder Compiler converts the LadderCore IR into Plutus Core smart contract logic:
 
